@@ -15,7 +15,7 @@ And each repo comes with the product layer: the problem, the user, the reasoning
 
 ### What I'm working on
 
-🔭 **[Current](repo link)** - personal London events dashboard. AI filtering, taste profiles, the RA API.
+🔭 **[Current](https://github.com/ottoscholten/current)** - personal London events dashboard. AI filtering, taste profiles.
 
 🌱 Currently learning: where AI earns its place in a product vs where it's just noise
 
