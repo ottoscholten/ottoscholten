@@ -25,9 +25,6 @@ And each repo comes with the product layer: the problem, the user, the reasoning
 
 - PM at Loomery, London digital product agency
 - MSc dissertation: "The Impact of AI on Employee Intrinsic Motivation" - King's College London
-- Won an internal AI experiment award: built a fully functional prototype in 2 days using Cursor
 - I write about AI experiments on LinkedIn - [Build an AI that gets smarter over time](https://www.linkedin.com/pulse/build-ai-gets-smarter-over-time-instead-resetting-every-otto-scholten-3r1ce)
 
-💬 Ask me about product discovery, JTBD, or building with AI tools
-
-📫 [linkedin.com/in/ottoscholten](https://linkedin.com/in/ottoscholten)
+💬 Ask me about product discovery, JTBD, or building with AI tools.
